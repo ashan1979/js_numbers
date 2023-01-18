@@ -178,6 +178,6 @@ article:nth-of-type(2) {
     border-bottom-color: #14b8a6;
 }
 
-article:nth-last-of-type(3) {
+article:nth-of-type(3) {
     border-bottom-color: #a855f7;
 }
